@@ -1,0 +1,8 @@
+vidgear
+colormath
+opencv-python
+Pillow
+numpy
+cppyy
+yt_dlp
+websockets

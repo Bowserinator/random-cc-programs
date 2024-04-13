@@ -1,0 +1,8 @@
+SYMBOL_WIDTH = 2
+SYMBOL_HEIGHT = 3
+PORT = 9123
+
+# Computercraft screen res
+SCREEN_RES = (39 * 2, 12 * 2)
+PALETTE_SIZE = 16
+TIMEOUT_SECONDS = 5
